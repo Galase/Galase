@@ -1,5 +1,5 @@
 
-## Olá! Eu sou o Gabriel Melo 
+## Hi! I am Gabriel Melo 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Galase&label=Profile%20views&color=0e75b6&style=flat" alt="gustavowebjs" /> </p>
 <div>
  <a href="https://github.com/Galase">
