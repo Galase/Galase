@@ -1,10 +1,6 @@
 
 ## Hi! I am Gabriel Melo 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Galase&label=Profile%20views&color=0e75b6&style=flat" /> </p>
-<div>
- <a href="https://github.com/Galase">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Galase&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
  
 <div style="display: inline_block"><br>
  <img align="center" alt="Gabriel-Js" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
